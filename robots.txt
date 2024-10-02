@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jayoha.github.io/ABu/sitemap.ABu.gz
